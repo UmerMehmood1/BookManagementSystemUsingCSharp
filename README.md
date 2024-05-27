@@ -34,10 +34,8 @@ To run this application, you need Visual Studio installed on your machine.
 
 For a video demonstration of the application, you can watch the video below:
 
-<video width="640" height="480" controls>
-  <source src="BookProjectVp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Video Demo]](./BookProjectVP.mp4)
+
 ## Author
 
 [Your Name]

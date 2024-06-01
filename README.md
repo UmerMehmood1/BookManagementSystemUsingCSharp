@@ -35,7 +35,8 @@ To run this application, you need Visual Studio installed on your machine.
 For a video demonstration of the application, you can watch the video below:
 
 ## Author
-[![Watch the video](https://i9.ytimg.com/vi/4XaIRULNgKM/mqdefault.jpg?sqp=CLSF7LIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB61Pr3kHjLQU05BuYiRhqonb5wEg)](https://youtu.be/4XaIRULNgKM)
+[<img src="https://i9.ytimg.com/vi/4XaIRULNgKM/mqdefault.jpg?sqp=CLSF7LIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB61Pr3kHjLQU05BuYiRhqonb5wEg" width="600" height="300"
+/>](https://youtu.be/4XaIRULNgKM)
 
 ## License
 

@@ -34,9 +34,8 @@ To run this application, you need Visual Studio installed on your machine.
 
 For a video demonstration of the application, you can watch the video below:
 
-[[![Video Demo]]([./BookProjectVP.mp4](https://youtu.be/4XaIRULNgKM))]
 ## Author
-
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/4XaIRULNgKM))
 [Your Name]
 
 ## License
